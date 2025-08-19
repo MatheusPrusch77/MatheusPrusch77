@@ -19,8 +19,11 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
+  <!-- Desenvolvimento -->
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,sqlite,postgres,git,github,vscode" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+
+  <!-- SAP -->
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" width="48" height="48" alt="SAP"/>
 </p>
 
 ---
