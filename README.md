@@ -1,7 +1,7 @@
 
 <!-- Banner ou frase de boas-vindas -->
 <h1 align="center">👋 Olá, eu sou o Matheus Prusch!</h1>
-<h3 align="center">Auxiliar Docente | Futuro Consultor SAP | Desenvolvedor em Formação 💻</h3>
+<h3 align="center">Auxiliar Docente | Futuro Consultor SAP | Desenvolvimento 💻</h3>
 
 ---
 
