@@ -1,6 +1,6 @@
 <!-- Banner ou frase de boas-vindas -->
 <h1 align="center">👋 Olá, eu sou o Matheus Prusch!</h1>
-<h3 align="center">Técnico de Controle Administrativo | Entusiasta em Tecnologia 💻</h3>
+<h3 align="center">Auxiliar Docente | Entusiasta em Tecnologia ERP 💻</h3>
 
 ---
 
