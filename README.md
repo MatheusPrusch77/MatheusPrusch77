@@ -1,6 +1,6 @@
 <!-- Foto de perfil -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/151031283?v=4" width="180" style="border-radius: 50%;" alt="Matheus Prusch"/>
+  <img src="https://github.com/MatheusPrusch77/MatheusPrusch77" width="180" style="border-radius: 50%;" alt="Matheus Prusch"/>
 </p>
 
 <!-- Banner ou frase de boas-vindas -->
