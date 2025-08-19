@@ -1,3 +1,8 @@
+<!-- Foto de perfil -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/151031283?v=4" width="180" style="border-radius: 50%;" alt="Matheus Prusch"/>
+</p>
+
 <!-- Banner ou frase de boas-vindas -->
 <h1 align="center">👋 Olá, eu sou o Matheus Prusch!</h1>
 <h3 align="center">Auxiliar Docente | Futuro Consultor SAP | Desenvolvedor em Formação 💻</h3>
@@ -15,6 +20,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,sqlite,postgres,git,github,vscode" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
 ---
