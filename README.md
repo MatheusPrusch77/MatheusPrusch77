@@ -1,6 +1,6 @@
 <!-- Foto de perfil -->
 <p align="center">
-  <img src="https://github.com/MatheusPrusch77/MatheusPrusch77" width="180" style="border-radius: 50%;" alt="Matheus Prusch"/>
+  <img src="./WhatsApp Image 2025-08-15 at 21.42.31.jpeg" width="180" style="border-radius: 50%;" alt="Matheus Prusch"/>
 </p>
 
 <!-- Banner ou frase de boas-vindas -->
